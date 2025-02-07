@@ -59,4 +59,3 @@ HOMYZ/
 - Framer Motion team for animation library
 - Swiper.js for touch sliders
 - React Icons for icon set
-```
